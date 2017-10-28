@@ -4,9 +4,9 @@ Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yaz
 
 Sınıf | Öğrenci İsmi  | Numara
 -------|----------------|--------
-11-D   | Fazlı Altun | 412
-11-D   | Ceyda Cesaretli | 111
-
+10-A   | Fazlı Altun | 463
+10-A   | Enver Kahyaoğlu | 462
+10-A   | Orhan Efe Dere  |
 #  (buraya proje başlığını yazınız)
 ## Özet
 Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
