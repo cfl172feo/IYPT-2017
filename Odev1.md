@@ -2,7 +2,7 @@ Sınıf | Öğrenci İsmi  | Numara
 -------|----------------|--------
 10-A   | Fazlı Altun  | 463
 10-A   | Enver Kahyaoğlu| 462
-10-A   | Orhan Efe Dere |
+10-A   | Orhan Efe Dere |455
 
 
 #  Water Bottle 
